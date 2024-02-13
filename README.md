@@ -8,13 +8,13 @@
 
 </div>
 
-<br><br>
+<!--<br><br>
 ## ☎️ Me Contater
 <div align="center">
   <a href="https://discord.com/users/772745262019117056" targer="_blank" />
     <img alt="DiscordProfile" src="https://lanyard.cnrad.dev/api/772745262019117056?theme=dark&bg=291f33" />
   </a>
-</div>
+</div>-->
 
 ## 👨🏼‍💻 Connaissances
 ### 🖊OS
